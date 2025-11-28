@@ -35,7 +35,7 @@ export default function peliculas() {
     }, []);
 
     return (
-        <div className=""></div>
+        <div className="UIU"></div>
     )
  }
 
